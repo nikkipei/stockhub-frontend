@@ -15,7 +15,7 @@
     <div class="navbar-end">
       <div class="navbar-item">
         <router-link to="/">Home</router-link>
-
+          <router-link to="/portfolio">My Account</router-link>
           </div>
           <div class="buttons">
 
